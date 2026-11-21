@@ -14,6 +14,9 @@
 # imperfect line is the only signature that could only be theirs.
 # Permission is not the neat copy. It is the shaking hand that
 # chooses to sign anyway.
+#
+# The text is 182 Unicode code points, inside the 1-280 cap, and not
+# only white space; it is written exactly as listed below, every run.
 
 import os
 from pathlib import Path
