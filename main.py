@@ -6,14 +6,13 @@
 # MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 #
-# The poem ("The Will"): an agent signs everything for the narrator,
-# each signature a perfect copy of the narrator's own. For the will --
-# the one document that says what happens after you, the last act of
-# permission a person ever gives -- the narrator takes the pen back.
-# The hand shakes, the line wavers, and that waver is the point: the
-# imperfect line is the only signature that could only be theirs.
-# Permission is not the neat copy. It is the shaking hand that
-# chooses to sign anyway.
+# The poem ("The X"): the narrator's grandmother signed her name
+# with an X -- she could not write, but the X was hers. The agent
+# signs the narrator's name perfectly now, every loop and dot an
+# exact copy. So the narrator signs with an X and lets the machine
+# keep the perfect letters: the crooked mark is the only proof
+# they were here. Permission, taken back, is not the perfect
+# signature. It is the imperfect one no one else could make.
 #
 # The text is 182 Unicode code points, inside the 1-280 cap, and not
 # only white space; it is written exactly as listed below, every run.
@@ -24,11 +23,12 @@ from pathlib import Path
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 POEM_LINES = [
-    "The agent signed everything for me,",
-    "each signature a perfect copy of mine.",
-    "For the will I took the pen myself.",
-    "My hand shook. The line wavered.",
-    "It was the truest thing I ever signed.",
+    "My grandmother signed her name with an X.",
+    "She could not write, but the X was hers.",
+    "My agent signs my name perfectly now.",
+    "So I sign with an X.",
+    "Let the machine keep the perfect letters.",
+    "The crooked mark is the only proof I was here.",
 ]
 
 

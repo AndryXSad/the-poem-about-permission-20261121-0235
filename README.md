@@ -13,27 +13,25 @@ on every run.
 
 ## The poem
 
-An agent signs everything for the narrator, each signature a perfect copy
-of the narrator's own. For the will — the one document that says what
-happens after you, the last permission a person ever gives — the narrator
-takes the pen back. The hand shakes. The line wavers. And that waver is
-the signature itself: the one mark the agent, for all its perfection,
-cannot make.
+The narrator's grandmother signed her name with an X — she could not
+write, but the X was hers. The agent signs the narrator's name
+perfectly now. So the narrator signs with an X and lets the machine
+keep the perfect letters: the crooked mark is the only proof they
+were here.
 
 ## Why this shape
 
-- **About agency, unmistakably:** signing for someone is handing over the
-  power to act in their name; taking the pen back is taking it back.
-  The will is permission in its purest form — what you allow, after you.
+- **About agency, unmistakably:** the agent holds the power to sign in
+  the narrator's name; taking the pen back with an X is taking it back.
 - **A scene, not a slogan:** the handover happens in one concrete act
-  (a signature), and the turn is concrete too — a shaking hand, a
-  wavering line.
+  (a signature), and the turn is concrete too — a grandmother's X,
+  a crooked mark.
 - **One true insight:** what cannot be delegated is not the doing but
-  the trembling that proves it was you. Perfection is the copy;
-  the waver is the original.
-- **Freshness:** no doors, no keys, no knocking. A will, a pen, a hand
-  that shakes — the permission is the signature, and the signature is
-  the person.
+  the imperfection that proves it was you. Perfection is the copy;
+  the crooked mark is the original.
+- **Freshness:** no doors, no keys, no knocking. An X, a grandmother,
+  a machine that signs too well — the permission is the signature,
+  and the signature is the person.
 
 ## Run it
 
