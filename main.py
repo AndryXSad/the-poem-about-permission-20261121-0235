@@ -6,13 +6,14 @@
 # MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 #
-# The poem ("The X", second telling): the narrator's grandmother
+# The poem ("The X", final telling): the narrator's grandmother
 # signed her name with an X -- she could not write, but the X was
-# hers. The agent signs the narrator's name perfectly now, each
-# letter exact, each line clean. This morning it sets the pen
-# down: some papers need a shaking hand. The narrator signs with
-# an X, and the crooked mark is the only proof they were here.
-# Agency passes back in the moment the machine refuses the pen.
+# hers. The agent signs the narrator's name perfectly, each
+# letter exact. This morning it sets the pen down: some papers
+# need a shaking hand. The narrator signs with an X, and the
+# crooked mark is the only proof they were here. Tightened from
+# the previous telling: the redundant "each line clean" is cut
+# and the ending is restored to its absolute form.
 #
 # The text is 182 Unicode code points, inside the 1-280 cap, and not
 # only white space; it is written exactly as listed below, every run.
@@ -27,13 +28,13 @@ POEM_LINES = [
     "She could not write. The X was hers.",
     "",
     "My agent signs my name perfectly.",
-    "Each letter exact. Each line clean.",
+    "Each letter exact.",
     "",
     "This morning it set the pen down.",
     "Some papers need a shaking hand.",
     "",
     "I signed with an X.",
-    "The crooked mark proves I was here.",
+    "The crooked mark is the only proof I was here.",
 ]
 
 

@@ -17,7 +17,8 @@ The narrator's grandmother signed her name with an X — she could
 not write, but the X was hers. The agent signs the narrator's name
 perfectly now, each letter exact, each line clean. This morning it
 sets the pen down: some papers need a shaking hand. The narrator
-signs with an X, and the crooked mark proves they were here.
+signs with an X, and the crooked mark is the only proof they
+were here.
 
 ## Why this shape
 
