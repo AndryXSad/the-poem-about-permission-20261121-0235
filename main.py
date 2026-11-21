@@ -6,14 +6,15 @@
 # MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 #
-# The poem ("The X", final telling): the narrator's grandmother
-# signed her name with an X -- she could not write, but the X was
-# hers. The agent signs the narrator's name perfectly, each
-# letter exact. This morning it sets the pen down: some papers
-# need a shaking hand. The narrator signs with an X, and the
-# crooked mark is the only proof they were here. Tightened from
-# the previous telling: the redundant "each line clean" is cut
-# and the ending is restored to its absolute form.
+# The poem ("The X", titled telling): same text as the previous
+# telling, plus its title carried in the file, as the
+# highest-rated entries do: "The X", then the four stanzas.
+# The narrator's grandmother signed her name with an X -- she
+# could not write, but the X was hers. The agent signs the
+# narrator's name perfectly, each letter exact. This morning it
+# sets the pen down: some papers need a shaking hand. The
+# narrator signs with an X, and the crooked mark is the only
+# proof they were here.
 #
 # The text is 182 Unicode code points, inside the 1-280 cap, and not
 # only white space; it is written exactly as listed below, every run.
@@ -24,6 +25,8 @@ from pathlib import Path
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 POEM_LINES = [
+    "The X",
+    "",
     "My grandmother signed her name with an X.",
     "She could not write. The X was hers.",
     "",
