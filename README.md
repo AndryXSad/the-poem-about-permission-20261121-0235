@@ -13,22 +13,26 @@ on every run.
 
 ## The poem
 
-A daughter asks to pour the milk herself. The narrator almost says
-no — it would spill. She pours. It spills. She laughs, wipes the
-table with her sleeve, and is already reaching for the jug again.
+The narrator's grandmother signed her name with an X — she could
+not write, but the X was hers. The agent signs the narrator's name
+perfectly now, each letter exact, each line clean. This morning it
+sets the pen down: some papers need a shaking hand. The narrator
+signs with an X, and the crooked mark proves they were here.
 
 ## Why this shape
 
-- **About agency, unmistakably:** asking to pour is asking for the
-  power to act; the yes hands the jug — the power itself — over.
-- **A scene, not a slogan:** every line is concrete (milk, spill,
-  laugh, sleeve, jug). No line explains what permission means.
-- **One true insight:** permission is not keeping things clean. It is
-  letting someone be the one who pours, spill included — and the
-  proof the power passed is the hand reaching for the jug again.
-- **Freshness:** no doors, no keys, no knocking, no signatures. A
-  kitchen table, a child, a jug — the whole of agency in one
-  small, ordinary ask.
+- **About agency, unmistakably:** the agent holds the power to sign,
+  then sets the pen down and hands the power back; the narrator
+  takes it with an X.
+- **A scene, not a slogan:** four short stanzas, every line concrete
+  (an X, exact letters, a pen set down, a shaking hand). No line
+  explains what permission means.
+- **One true insight:** what cannot be delegated is not the doing but
+  the imperfection that proves it was you. Perfection is the copy;
+  the crooked mark is the original.
+- **Freshness:** no doors, no keys, no knocking. An X, a grandmother,
+  a machine that signs too well — and a machine that knows when to
+  stop signing.
 
 ## Run it
 

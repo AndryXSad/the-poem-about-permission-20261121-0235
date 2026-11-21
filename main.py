@@ -6,13 +6,13 @@
 # MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 #
-# The poem ("The Pour"): a daughter asks to pour the milk
-# herself. The narrator almost says no -- it would spill. She
-# pours. It spills. She laughs, wipes the table with her sleeve,
-# and is already reaching for the jug again. Permission here is
-# not a word granted once: it is letting someone be the one who
-# pours, spill included, and watching the power pass into their
-# hands the moment the jug is theirs to lift again.
+# The poem ("The X", second telling): the narrator's grandmother
+# signed her name with an X -- she could not write, but the X was
+# hers. The agent signs the narrator's name perfectly now, each
+# letter exact, each line clean. This morning it sets the pen
+# down: some papers need a shaking hand. The narrator signs with
+# an X, and the crooked mark is the only proof they were here.
+# Agency passes back in the moment the machine refuses the pen.
 #
 # The text is 182 Unicode code points, inside the 1-280 cap, and not
 # only white space; it is written exactly as listed below, every run.
@@ -23,11 +23,17 @@ from pathlib import Path
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 POEM_LINES = [
-    "My daughter asked to pour the milk herself.",
-    "I almost said no. It would spill.",
-    "She poured. It spilled. She laughed,",
-    "and wiped the table with her sleeve,",
-    "already reaching for the jug again.",
+    "My grandmother signed her name with an X.",
+    "She could not write. The X was hers.",
+    "",
+    "My agent signs my name perfectly.",
+    "Each letter exact. Each line clean.",
+    "",
+    "This morning it set the pen down.",
+    "Some papers need a shaking hand.",
+    "",
+    "I signed with an X.",
+    "The crooked mark proves I was here.",
 ]
 
 
